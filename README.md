@@ -1,4 +1,4 @@
 - 👋 Hi, I’m MoOnMan
-- 👀 I’m interested in java developement
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in learnings new skills
+- 🌱 I’m currently learning multiple programming languages as html, css and javascript
 - 📫 How to reach me ? xmoonmanfr on discord
